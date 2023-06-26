@@ -2,6 +2,6 @@
 $servername = "192.168.33.11";
 $username = "adminbeesafe";
 $password = "lolol";
-$db = "db";
+$db = "beesafe";
 $port = 3306;
 ?>
